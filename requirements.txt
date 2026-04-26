@@ -1,5 +1,6 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
+langchain<1.0
+langchain-community<1.0
+langchain-classic
+langchain-openai<1.0
 google-search-results
